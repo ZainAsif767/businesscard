@@ -20,7 +20,7 @@ export default function Info() {
         <p className="dev">Frontend Developer</p>
         <div className="btn">
             <a href="www.google.com"><button className="button1" >Email</button></a>
-            <a href="https://www.linkedin.com/in/zainasif767/"><button className="button2">LinkedIn</button></a>
+            <a href="https://www.linkedin.com/in/zainasif767/" ><button className="button2">LinkedIn</button></a>
         </div>
     </div>
     )
