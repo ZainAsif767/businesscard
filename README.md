@@ -3,7 +3,7 @@ This business Card is made using HTML and CSS for front end designing and pracic
 
 ## Screen Shot 
 
-![image](https://user-images.githubusercontent.com/98703238/211212398-d8613988-4203-429e-8ec1-0f902dc3516d.png)
+
 
 ## Author
 
