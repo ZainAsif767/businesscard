@@ -1,5 +1,5 @@
 import React from "react"
-import mypic from "../images/pic2.jpg"
+import mypic from "../images/info_pic.jpg"
 import logo from "../images/logo192.png"
 
 export default function Info() {
